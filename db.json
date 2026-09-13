@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone 15",
+            "description": "Iphone 15 is a smartphone with a 6.1-inch display, A15 Bionic chip, and 12MP camera.",
+            "image": "https://www.apple.com/iphone-15/images/overview/hero/iphone_15_hero_large_2x.jpg",
+            "price": 100
+        },
+        {
+            "id": 2,
+            "name": "Iphone 15 Pro",
+            "description": "Iphone 15 Pro is a smartphone with a 6.1-inch display, A15 Bionic chip, and 12MP camera.",
+            "image": "https://www.apple.com/iphone-15/images/overview/hero/iphone_15_hero_large_2x.jpg",
+            "price": 100
+        }
+    ]
+}
